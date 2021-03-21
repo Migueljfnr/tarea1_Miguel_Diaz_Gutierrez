@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Inter,Helvetica,Roboto,sans-serif;
+}
+#content{
+    width: 100%;
+    margin: auto;
+    font-family: 12ps;
+}
+.row{
+    text-align: justify;
+}
+
+h1 + p {
+    font-size: 1.25em;
+    line-height: 1.33;
+}
+h1, h4{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+h3{
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+.more{
+    text-align: center;
+}
+#p1{
+    text-align: center;
+}
+#image{
+    width: 20%;
+    margin: auto;
+}
+#two{
+    background: #7239b3;
+    margin-top: 5%;
+}
+#p2{
+    text-align: justify;
+    color: white;
+    font-size: 12pt;
+}
+#image4{
+    margin-top: 30%;
+    width: 50%;
+    margin-left: 50%;
+}
+.btn-primary{
+    width: 80%;
+    margin-left: 10%;
+    background: white;
+    color: #7239b3;
+}
+.btn-secundary{
+    width: 70%;
+    margin-left: 15%;
+    background: #7239b3;
+    color: white;
+}
+.btn-third{
+    width: 60%;
+    margin-left: 20%;
+    background: #7239b3;
+    color: white;
+}
+#image3{
+    margin-top: 15%;
+}
+#three h3{
+    color: black;
+}
+#three, #five{
+    margin: 5%;
+}
+#con-five{
+    margin-top: 20%;
+}
+#six{
+    background: #273445;
+    text-align: center;
+    color: white;
+}
+.div1{
+    width: 50%;
+    margin: auto;
+}
+.div1 h3 p{
+    margin-top: 20%;
+}
+
+.div2{
+    width: 80%;
+    margin: auto;
+}
